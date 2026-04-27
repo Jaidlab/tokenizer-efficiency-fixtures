@@ -1,3 +1,6 @@
 {
-  "extends": "./node_modules/tsconfig-jaid-node/base.json"
+  "extends": "./node_modules/tsconfig-jaid-node/base.json",
+  "compilerOptions": {
+    "types": ["bun-types"]
+  }
 }

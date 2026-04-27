@@ -17,6 +17,7 @@
     "url": "git@github.com:jaidlab/tokenizer-efficiency-fixtures.git"
   },
   "scripts": {
+    "build": "bun scripts/update.ts && bun scripts/build.ts",
     "test": "bun test --max-concurrency 1 ./test"
   },
   "devDependencies": {
@@ -24,6 +25,7 @@
     "es-toolkit": "^1.46.0",
     "eslint": "^10.2.1",
     "eslint-config-jaid": "^26.0.0",
+    "js-tiktoken": "1.0.21",
     "tsconfig-jaid-node": "^14.1.0",
     "typescript": "^6.0.3",
     "yaml": "^2.8.3",
