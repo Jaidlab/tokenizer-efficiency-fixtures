@@ -1,0 +1,5 @@
+text: console.log({{candidate}}Hello, {{candidate}} + name + {{candidate}}!{{candidate}})
+candidates:
+- "'"
+- '"'
+- '`'

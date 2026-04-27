@@ -1,0 +1,19 @@
+text: |-
+  export default class {
+  {{candidate}}/**
+  {{candidate}} * @constructor
+  {{candidate}} */
+  {{candidate}}constructor() {
+  {{candidate}}{{candidate}}if (isVerbose) {
+  {{candidate}}{{candidate}}{{candidate}}for (const block of blocks) {
+  {{candidate}}{{candidate}}{{candidate}}{{candidate}}// eslint-disable-next-line no-console
+  {{candidate}}{{candidate}}{{candidate}}{{candidate}}console.log(block)
+  {{candidate}}{{candidate}}{{candidate~}} }
+  {{candidate}}{{candidate~}} }
+  {{candidate~}} }
+  }
+candidates:
+- ' '
+- '  '
+- '    '
+- "\t"

@@ -1,0 +1,4 @@
+text: ./packages/util/{{candidate}}.md
+candidates:
+- readme
+- README

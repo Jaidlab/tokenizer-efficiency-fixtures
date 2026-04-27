@@ -1,0 +1,7 @@
+text: |-
+  export {{candidate}} {
+    return left + right
+  }
+candidates:
+- 'function add(left: number, right: number)'
+- 'const add = (left: number, right: number) =>'
