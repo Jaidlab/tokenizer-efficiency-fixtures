@@ -1,0 +1,6 @@
+text: Refer to {{candidate}} for further information.
+candidates:
+  - C:/Users/jaid/.copilot/instructions/info.instructions.md
+  - C:\Users\jaid\.copilot\instructions\info.instructions.md
+  - /home/jaid/.copilot/instructions/info.instructions.md
+  - /Users/jaid/.copilot/instructions/info.instructions.md
