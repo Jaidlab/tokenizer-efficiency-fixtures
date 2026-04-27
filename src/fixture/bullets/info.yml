@@ -1,0 +1,15 @@
+text: |-
+  # to do
+
+  {{candidate}} fix
+  {{candidate}} chores
+    {{candidate}} refactor
+    {{candidate}} tree-shake
+    {{candidate}} run formatter
+  {{candidate}} push
+candidates:
+  - '-'
+  - ⁃
+  - •
+  - ∙
+  - 🔹
