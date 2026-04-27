@@ -1,0 +1,12 @@
+gpt:
+  name: GPT
+  import: js-tiktoken/ranks/o200k_base
+qwen:
+  name: Qwen
+  huggingfaceRepo: Qwen/Qwen3.6-27B
+deepseek:
+  name: DeepSeek
+  huggingfaceRepo: deepseek-ai/DeepSeek-V4-Pro
+gemma:
+  name: Gemma
+  huggingfaceRepo: google/gemma-4-31B-it
