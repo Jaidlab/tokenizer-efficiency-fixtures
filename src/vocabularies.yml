@@ -4,6 +4,9 @@ gpt:
 qwen:
   name: Qwen
   huggingfaceRepo: Qwen/Qwen3.6-27B
+kimi:
+  name: Kimi
+  huggingfaceRepo: moonshotai/Kimi-K2.6
 deepseek:
   name: DeepSeek
   huggingfaceRepo: deepseek-ai/DeepSeek-V4-Pro
